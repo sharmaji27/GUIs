@@ -1,0 +1,4 @@
+pushbullet.py~=0.11.0
+click~=7.0
+keyring~=16.0.2
+keyrings.alt~=3.1

@@ -1,0 +1,3 @@
+[console_scripts]
+pushbullet = pushbullet.cli:main [cli]
+
