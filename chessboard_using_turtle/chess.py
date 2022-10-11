@@ -4,9 +4,10 @@ chess = turtle.Turtle()
 chess.penup()
 chess.goto(-300, 330)
 chess.pendown()
-n = int(input('enter the no of rows --> '))
-c1 = input('enter the first color --> ')
-c2 = input('enter the second color --> ')
+print('enter the n value and name of two colors')
+n = int(input())
+c1 = input()
+c2 = input()
 chess.speed(15)
 for i in range(n):
     for j in range(n):
